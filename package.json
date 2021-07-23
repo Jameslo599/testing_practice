@@ -4,8 +4,12 @@
   "description": "practicing with Jest",
   "main": "sum.js",
   "scripts": {
-	"test": "jest"
+    "test": "jest",
+	"watch": "jest --watch"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.8"
+  }
 }
