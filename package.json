@@ -1,0 +1,11 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "practicing with Jest",
+  "main": "sum.js",
+  "scripts": {
+	"test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
