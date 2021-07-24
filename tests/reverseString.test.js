@@ -1,5 +1,5 @@
-import reverseString from './../code/reverseString'
+import reverseString from "./../code/reverseString";
 
-test('takes a string and returns it reversed', () => {
-	expect(reverseString('string')).toBe('gnirts');
+test("takes a string and returns it reversed", () => {
+  expect(reverseString("string")).toBe("gnirts");
 });
